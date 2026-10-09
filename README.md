@@ -1,11 +1,26 @@
-Launch instructions 
-1. Download the .ZIP from the release page
-2. unpack the .ZIP
-3. launch the .exe
+# Tomato Stocks
 
-note: if windows says that it protected your pc click more info then click run anyway.
 
+## Copyright | Licensing & Permissions
+
+### Copyright
 
 Copyright (c) 2026 Tomako Studios
+
+All rights reserved. 
+
+No part of this software, including the source code, may be copied, 
+redistributed, modified, or used as inspiration for derivative works 
+without the express prior written consent of the copyright owner.
+
+
+### Licensing & Permissions
+
+This project is strictly proprietary. You are not permitted to copy, modify, 
+redistribute, or take inspiration from this codebase without explicit permission.
+
+If you would like to request an exception or a custom license to use, modify, 
+or distribute this code, please contact me at: <bradenexebusiness@gmail.com>.
+
 
 
