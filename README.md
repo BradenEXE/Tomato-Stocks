@@ -47,6 +47,8 @@ Because the Tomato-Stocks exe is not signed it is not recognized by Windows, the
 Please Note: **THIS SOFTWARE IS NOT A VIRUS AND HAS NO INTENTION TO HARM YOUR DEVICE**
 
 To fix this issue go to...
-```More Info > Run anyway```
+```text
+More Info > Run anyway
+```
 
 
